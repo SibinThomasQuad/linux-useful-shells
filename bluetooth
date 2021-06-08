@@ -1,0 +1,4 @@
+sudo apt-get install bluez-tools
+bt-device -l
+bt-audio -c 01:02:03:04:05:06
+
